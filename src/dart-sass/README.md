@@ -7,7 +7,7 @@ Dart Sass is the primary implementation of Sass.
 
 ```json
 "features": {
-    "ghcr.io/prplecake/devcontainer-features/dart-sass:1": {}
+    "ghcr.io/Eraph/devcontainer-features/dart-sass:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Dart Sass is the primary implementation of Sass.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/prplecake/devcontainer-features/blob/main/src/dart-sass/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Eraph/devcontainer-features/blob/main/src/dart-sass/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
